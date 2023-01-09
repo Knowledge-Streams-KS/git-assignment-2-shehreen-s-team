@@ -1,2 +1,5 @@
+import sys, Math
 def sqRoot (a):
-    return a**2
+    return Math.sqrt(a)
+
+sys.modules[__name__] = sqRoot
