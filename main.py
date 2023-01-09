@@ -1,5 +1,5 @@
 from multiply import multiplyNumbers
 def main():
-multiplyNumbers(x,y)
+    multiplyNumbers(a, b)  
 
 main()
